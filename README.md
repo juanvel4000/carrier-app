@@ -1,2 +1,2 @@
 # carrier-app
-Example Application for the Carriermanager
+This is a example app you can install using the Carrier Ports Manager for CarrierOS
